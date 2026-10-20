@@ -1,0 +1,6 @@
+{
+  "name": "Discord Bot - Hệ Thống Order & Quản Lý Server",
+  "description": "Discord Bot thực tế với discord.js: Hệ thống Order, Quỹ Lợn đất của em bé, Mua nhà riêng, Kinh tế công ty, Lương ngày, Thăng chức, Tranh cử Mod, Phạt Mute và Quản lý Role.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
